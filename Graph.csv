@@ -1,0 +1,17 @@
+from,to,weights
+A,B,1
+A,C,2
+B,D,3
+C,D,4
+D,E,1
+E,G,3
+G,H,4
+H,I,5
+I,J,3
+C,F,7
+C,L,8
+F,J,9
+F,K,10
+J,K,11
+K,M,12
+L,M,13
